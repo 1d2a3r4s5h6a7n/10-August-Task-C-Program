@@ -1,0 +1,15 @@
+Program1.c := C Program to Check Whether a Number is Positive, Negative, or Zero
+Program2.c := C Program to Check Whether Number is Even or Odd
+Program3.c := C Program to Check Whether a Character is Vowel or Consonant 
+Program4.c := C Program to Find Largest Number Among Three Numbers
+Program5.c := C Program to Calculate Sum of Natural Numbers 
+Program6.c := C Program to Print Alphabets From A to Z Using Loop
+Program7.c := C Program to Check Leap Year
+Program8.c := C Program to Find Factorial of a Number
+Program9.c := C Program to Make a Simple Calculator 
+Program10.c := C Program to Generate Multiplication Table 
+Program11.c := C Program to Print Fibonacci Series
+Program12.c := C Program to Find LCM of Two Numbers
+Program13.c := C Program to Check Armstrong Number
+Program14c := C Program to Display Armstrong Numbers Between 1 to 1000
+Program15.c := C Program to Find HCF of Two Numbers
